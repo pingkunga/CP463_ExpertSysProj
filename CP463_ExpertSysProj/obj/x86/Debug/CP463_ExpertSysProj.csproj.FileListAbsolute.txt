@@ -1,0 +1,14 @@
+C:\Users\Adminping\Desktop\ProjClips\CP463_ExpertSysProj\CP463_ExpertSysProj\bin\Debug\CP463_ExpertSysProj.exe
+C:\Users\Adminping\Desktop\ProjClips\CP463_ExpertSysProj\CP463_ExpertSysProj\bin\Debug\CP463_ExpertSysProj.pdb
+C:\Users\Adminping\Desktop\ProjClips\CP463_ExpertSysProj\CP463_ExpertSysProj\bin\Debug\Mommosoft.ExpertSystem.dll
+C:\Users\Adminping\Desktop\ProjClips\CP463_ExpertSysProj\CP463_ExpertSysProj\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Adminping\Desktop\ProjClips\CP463_ExpertSysProj\CP463_ExpertSysProj\obj\x86\Debug\CP463_ExpertSysProj.FACT.resources
+C:\Users\Adminping\Desktop\ProjClips\CP463_ExpertSysProj\CP463_ExpertSysProj\obj\x86\Debug\CP463_ExpertSysProj.Form1.resources
+C:\Users\Adminping\Desktop\ProjClips\CP463_ExpertSysProj\CP463_ExpertSysProj\obj\x86\Debug\CP463_ExpertSysProj.Properties.Resources.resources
+C:\Users\Adminping\Desktop\ProjClips\CP463_ExpertSysProj\CP463_ExpertSysProj\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Adminping\Desktop\ProjClips\CP463_ExpertSysProj\CP463_ExpertSysProj\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Adminping\Desktop\ProjClips\CP463_ExpertSysProj\CP463_ExpertSysProj\obj\x86\Debug\CP463_ExpertSysProj.exe
+C:\Users\Adminping\Desktop\ProjClips\CP463_ExpertSysProj\CP463_ExpertSysProj\obj\x86\Debug\CP463_ExpertSysProj.pdb
+C:\Users\Adminping\Desktop\ProjClips\CP463_ExpertSysProj\CP463_ExpertSysProj\obj\x86\Debug\CP463_ExpertSysProj.Form2.resources
+C:\Users\Adminping\Desktop\ProjClips\CP463_ExpertSysProj\CP463_ExpertSysProj\bin\Debug\HostPackage.clp
+C:\Users\Adminping\Desktop\ProjClips\CP463_ExpertSysProj\CP463_ExpertSysProj\obj\x86\Debug\CP463_ExpertSysProj.PICTURE.resources
